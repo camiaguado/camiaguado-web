@@ -1,1 +1,10 @@
-{}
+{
+  "auth": {
+    "camiaguadowebcab681ec": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
